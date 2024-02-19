@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063932155752",
+    "project_id": "drive-ba2e0",
+    "storage_bucket": "drive-ba2e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063932155752:android:f5ecbfd764d3a9cd1568dd",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoMxwMimUeR4sS4Cjr3b_JCbehAO-2fJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
