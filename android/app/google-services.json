@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1063932155752",
-    "project_id": "drive-ba2e0",
-    "storage_bucket": "drive-ba2e0.appspot.com"
+    "project_number": "87321090494",
+    "project_id": "drrmie",
+    "storage_bucket": "drrmie.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1063932155752:android:f5ecbfd764d3a9cd1568dd",
+        "mobilesdk_app_id": "1:87321090494:android:d559cd80dca0594d4301ef",
         "android_client_info": {
           "package_name": "com.example.application"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBoMxwMimUeR4sS4Cjr3b_JCbehAO-2fJQ"
+          "current_key": "AIzaSyAFKXjeg_Dlw_SKV1CVD2tvyKOYjeSrccI"
         }
       ],
       "services": {
